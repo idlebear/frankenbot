@@ -1,0 +1,12 @@
+**/build  
+**/.catkin_tools
+**/devel
+**/logs
+**/cmake-build-release
+**/cmake-build-debug
+**/.idea
+
+**/latex 
+
+# solidprint models imported from the internets
+*.SLDPRT
